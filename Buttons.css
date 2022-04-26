@@ -1,0 +1,75 @@
+<style>
+    .Youtube{
+        background-color: rgb(212, 9, 9);
+        color: white;
+        border: none;
+        height: 40px;
+        width: 105px;
+        border-radius: 2px;
+        cursor: pointer;
+        margin-right: 8px;
+        /* cursor for changing the hand sign when we hover over it */
+    }
+    .Join{
+        /* background-color: rgba(254, 254, 254, 0.927); */
+        border: solid rgb(41, 118, 211) 1px;
+        border-radius: 10px;
+        color: rgb(14, 187, 187);
+        height: 40px;
+        width: 105px;
+        cursor: pointer;
+        margin-right: 8px;
+    }
+    .Twitter{
+        height: 40px;
+        width: 105px;
+        cursor: pointer;
+        color: white;
+        background-color: rgb(2, 158, 255);
+        border-radius: 20px;
+        border: none;
+        font-weight: bold;
+        font-size: 15px;
+        margin-right: 8px;
+    }
+    .uber{
+        height: 40px;
+        width: 105px;
+        border-radius: 2px;
+        border: none;
+        background-color: black;
+        color: white;
+        cursor: pointer;
+        /* padding-top: 2px; */
+        margin-right: 8px;
+    }
+    .Amazon{
+        height: 40px;
+        width: 115px;
+        background-color: rgb(214, 214, 13);
+        color: black;
+        border: none;
+        border-radius: 20px;
+        cursor: pointer;
+        margin-right:8px; 
+    }
+    .github{
+        height: 40px;
+        width: 104px;
+        margin-right: 8px;
+        border: none;
+        background-color: rgb(74, 164, 74);
+        color: white;
+        font-weight: bold;
+        border-radius: 2px;
+        cursor: pointer;
+
+    }
+</style>
+
+<button class="Youtube">SUBSCRIBE</button>
+<button class="Join">JOIN</button>
+<button class="Twitter">Tweet</button>
+<button class="uber">Request Now</button>
+<button class="Amazon">Add to Cart</button>
+<button class="github">Sign up</button>
